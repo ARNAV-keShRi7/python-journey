@@ -1,0 +1,13 @@
+name="arnav"
+age="12"
+class_num="9th"
+place="delhi"
+work="coding"
+hobby="playing badminton"
+
+print("My name is ;",name)
+print("My age is ;",age)
+print("My class is ;",class_num)
+print("Live in ;",place)
+print("My work is ;",work)
+print("My hobby is ;",hobby)
